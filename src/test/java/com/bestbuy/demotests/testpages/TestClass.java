@@ -50,7 +50,7 @@ public class TestClass extends com.bestbuy.demotests.BaseTest.BaseTestClass{
 		
 		BasketPage basketPage = detailsPage.addToCart();
 		
-		SecureCheckout secureCheckout = basketPage.checkOut();
+		SecureCheckout secureCheckout = basketPage.checkOut(); //Need to add call 
 		
 		CheckOut checkout = secureCheckout.select(MemberType.GUEST)
 										  .continueCheckout();

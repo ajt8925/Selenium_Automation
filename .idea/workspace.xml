@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35bfdd7d-c31f-458d-9f10-ce05ccd2bd4d" name="Default Changelist" comment="" />
+    <list default="true" id="35bfdd7d-c31f-458d-9f10-ce05ccd2bd4d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/testpages/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/testpages/TestClass.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/testpages/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5">
-              <caret line="48" column="62" lean-forward="true" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
+            <state relative-caret-position="73">
+              <caret line="52" column="82" selection-start-line="52" selection-start-column="82" selection-end-line="52" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/pageobjects/details/DetailsPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+              <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -87,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/pageobjects/basket/BasketPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="262">
-              <caret line="37" column="60" lean-forward="true" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
+              <caret line="37" column="60" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -113,6 +115,9 @@
       <find>HtmlElementsException</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -127,9 +132,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/pageobjects/results/SearchResults.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/pageobjects/results/ResultsPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bestbuy/demo/utils/enumerations/Availability.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/testpages/TestClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/pageobjects/details/DetailsPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/pageobjects/basket/BasketPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/testpages/TestClass.java" />
       </list>
     </option>
   </component>
@@ -154,7 +159,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
     <option name="width" value="1943" />
@@ -422,7 +427,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556475735834" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556476364978" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Selenium" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -543,7 +548,7 @@
       <workItem from="1556175198775" duration="281000" />
       <workItem from="1556209665720" duration="1628000" />
       <workItem from="1556248576992" duration="16967000" />
-      <workItem from="1556294196490" duration="4458000" />
+      <workItem from="1556294196490" duration="4472000" />
     </task>
     <servers />
   </component>
@@ -580,7 +585,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28972000" />
+    <option name="totallyTimeSpent" value="28986000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -592,7 +597,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49691358" visible="true" weight="0.29473683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -604,7 +610,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32222223" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.38333333" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.22962964" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.2522222" />
@@ -1146,21 +1152,21 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/pageobjects/details/DetailsPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/pageobjects/basket/BasketPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
-          <caret line="37" column="60" lean-forward="true" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
+          <caret line="37" column="60" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/bestbuy/demotests/testpages/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="48" column="62" lean-forward="true" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
+        <state relative-caret-position="73">
+          <caret line="52" column="82" selection-start-line="52" selection-start-column="82" selection-end-line="52" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
